@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/f6ba1531-2b56-4f9e-977e-0da7c87bc540/resourceGroups/SK8/providers/Microsoft.Web/sites/Catz",
+    "appService.deploySubpath": "."
+}
